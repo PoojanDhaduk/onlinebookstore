@@ -1,0 +1,56 @@
+F:\tatvasoft\API\CLI\BookStore\BookStore.models\bin\Debug\net6.0\BookStore.models.deps.json
+F:\tatvasoft\API\CLI\BookStore\BookStore.models\bin\Debug\net6.0\BookStore.models.runtimeconfig.json
+F:\tatvasoft\API\CLI\BookStore\BookStore.models\bin\Debug\net6.0\BookStore.models.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore.models\bin\Debug\net6.0\BookStore.models.pdb
+F:\tatvasoft\API\CLI\BookStore\BookStore.models\obj\Debug\net6.0\BookStore.models.csproj.AssemblyReference.cache
+F:\tatvasoft\API\CLI\BookStore\BookStore.models\obj\Debug\net6.0\BookStore.models.GeneratedMSBuildEditorConfig.editorconfig
+F:\tatvasoft\API\CLI\BookStore\BookStore.models\obj\Debug\net6.0\BookStore.models.AssemblyInfoInputs.cache
+F:\tatvasoft\API\CLI\BookStore\BookStore.models\obj\Debug\net6.0\BookStore.models.AssemblyInfo.cs
+F:\tatvasoft\API\CLI\BookStore\BookStore.models\obj\Debug\net6.0\BookStore.models.csproj.CoreCompileInputs.cache
+F:\tatvasoft\API\CLI\BookStore\BookStore.models\obj\Debug\net6.0\BookStore.models.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore.models\obj\Debug\net6.0\refint\BookStore.models.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore.models\obj\Debug\net6.0\BookStore.models.pdb
+F:\tatvasoft\API\CLI\BookStore\BookStore.models\obj\Debug\net6.0\BookStore.models.genruntimeconfig.cache
+F:\tatvasoft\API\CLI\BookStore\BookStore.models\obj\Debug\net6.0\ref\BookStore.models.dll
+D:\Downloads\BookStoreFinal\BookStore.models\bin\Debug\net6.0\BookStore.models.deps.json
+D:\Downloads\BookStoreFinal\BookStore.models\bin\Debug\net6.0\BookStore.models.runtimeconfig.json
+D:\Downloads\BookStoreFinal\BookStore.models\bin\Debug\net6.0\BookStore.models.dll
+D:\Downloads\BookStoreFinal\BookStore.models\bin\Debug\net6.0\BookStore.models.pdb
+D:\Downloads\BookStoreFinal\BookStore.models\obj\Debug\net6.0\BookStore.models.csproj.AssemblyReference.cache
+D:\Downloads\BookStoreFinal\BookStore.models\obj\Debug\net6.0\BookStore.models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\BookStoreFinal\BookStore.models\obj\Debug\net6.0\BookStore.models.AssemblyInfoInputs.cache
+D:\Downloads\BookStoreFinal\BookStore.models\obj\Debug\net6.0\BookStore.models.AssemblyInfo.cs
+D:\Downloads\BookStoreFinal\BookStore.models\obj\Debug\net6.0\BookStore.models.csproj.CoreCompileInputs.cache
+D:\Downloads\BookStoreFinal\BookStore.models\obj\Debug\net6.0\BookStore.models.dll
+D:\Downloads\BookStoreFinal\BookStore.models\obj\Debug\net6.0\refint\BookStore.models.dll
+D:\Downloads\BookStoreFinal\BookStore.models\obj\Debug\net6.0\BookStore.models.pdb
+D:\Downloads\BookStoreFinal\BookStore.models\obj\Debug\net6.0\BookStore.models.genruntimeconfig.cache
+D:\Downloads\BookStoreFinal\BookStore.models\obj\Debug\net6.0\ref\BookStore.models.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.models\bin\Debug\net6.0\BookStore.models.deps.json
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.models\bin\Debug\net6.0\BookStore.models.runtimeconfig.json
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.models\bin\Debug\net6.0\BookStore.models.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.models\bin\Debug\net6.0\BookStore.models.pdb
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.models\obj\Debug\net6.0\BookStore.models.csproj.AssemblyReference.cache
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.models\obj\Debug\net6.0\BookStore.models.GeneratedMSBuildEditorConfig.editorconfig
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.models\obj\Debug\net6.0\BookStore.models.AssemblyInfoInputs.cache
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.models\obj\Debug\net6.0\BookStore.models.AssemblyInfo.cs
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.models\obj\Debug\net6.0\BookStore.models.csproj.CoreCompileInputs.cache
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.models\obj\Debug\net6.0\BookStore.models.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.models\obj\Debug\net6.0\refint\BookStore.models.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.models\obj\Debug\net6.0\BookStore.models.pdb
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.models\obj\Debug\net6.0\BookStore.models.genruntimeconfig.cache
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.models\obj\Debug\net6.0\ref\BookStore.models.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.models\bin\Debug\net6.0\BookStore.models.deps.json
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.models\bin\Debug\net6.0\BookStore.models.runtimeconfig.json
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.models\bin\Debug\net6.0\BookStore.models.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.models\bin\Debug\net6.0\BookStore.models.pdb
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.models\obj\Debug\net6.0\BookStore.models.csproj.AssemblyReference.cache
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.models\obj\Debug\net6.0\BookStore.models.GeneratedMSBuildEditorConfig.editorconfig
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.models\obj\Debug\net6.0\BookStore.models.AssemblyInfoInputs.cache
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.models\obj\Debug\net6.0\BookStore.models.AssemblyInfo.cs
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.models\obj\Debug\net6.0\BookStore.models.csproj.CoreCompileInputs.cache
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.models\obj\Debug\net6.0\BookStore.models.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.models\obj\Debug\net6.0\refint\BookStore.models.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.models\obj\Debug\net6.0\BookStore.models.pdb
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.models\obj\Debug\net6.0\BookStore.models.genruntimeconfig.cache
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.models\obj\Debug\net6.0\ref\BookStore.models.dll

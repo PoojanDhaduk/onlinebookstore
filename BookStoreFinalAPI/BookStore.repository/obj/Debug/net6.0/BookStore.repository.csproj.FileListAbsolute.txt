@@ -1,0 +1,60 @@
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\obj\Debug\net6.0\BookStore.repository.csproj.AssemblyReference.cache
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\obj\Debug\net6.0\BookStore.repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\obj\Debug\net6.0\BookStore.repository.AssemblyInfoInputs.cache
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\obj\Debug\net6.0\BookStore.repository.AssemblyInfo.cs
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\obj\Debug\net6.0\BookStore.repository.csproj.CoreCompileInputs.cache
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\bin\Debug\net6.0\BookStore.repository.deps.json
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\bin\Debug\net6.0\BookStore.repository.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\bin\Debug\net6.0\BookStore.repository.pdb
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\bin\Debug\net6.0\BookStore.models.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\bin\Debug\net6.0\BookStore.models.pdb
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\obj\Debug\net6.0\BookStore.repository.csproj.CopyComplete
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\obj\Debug\net6.0\BookStore.repository.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\obj\Debug\net6.0\refint\BookStore.repository.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\obj\Debug\net6.0\BookStore.repository.pdb
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\obj\Debug\net6.0\ref\BookStore.repository.dll
+D:\Downloads\BookStoreFinal\BookStore.repository\obj\Debug\net6.0\BookStore.repository.csproj.AssemblyReference.cache
+D:\Downloads\BookStoreFinal\BookStore.repository\obj\Debug\net6.0\BookStore.repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\BookStoreFinal\BookStore.repository\obj\Debug\net6.0\BookStore.repository.AssemblyInfoInputs.cache
+D:\Downloads\BookStoreFinal\BookStore.repository\obj\Debug\net6.0\BookStore.repository.AssemblyInfo.cs
+D:\Downloads\BookStoreFinal\BookStore.repository\obj\Debug\net6.0\BookStore.repository.csproj.CoreCompileInputs.cache
+D:\Downloads\BookStoreFinal\BookStore.repository\obj\Debug\net6.0\BookStore.repository.dll
+D:\Downloads\BookStoreFinal\BookStore.repository\obj\Debug\net6.0\refint\BookStore.repository.dll
+D:\Downloads\BookStoreFinal\BookStore.repository\obj\Debug\net6.0\BookStore.repository.pdb
+D:\Downloads\BookStoreFinal\BookStore.repository\bin\Debug\net6.0\BookStore.repository.deps.json
+D:\Downloads\BookStoreFinal\BookStore.repository\bin\Debug\net6.0\BookStore.repository.dll
+D:\Downloads\BookStoreFinal\BookStore.repository\bin\Debug\net6.0\BookStore.repository.pdb
+D:\Downloads\BookStoreFinal\BookStore.repository\bin\Debug\net6.0\BookStore.models.dll
+D:\Downloads\BookStoreFinal\BookStore.repository\bin\Debug\net6.0\BookStore.models.pdb
+D:\Downloads\BookStoreFinal\BookStore.repository\obj\Debug\net6.0\BookStore.repository.csproj.CopyComplete
+D:\Downloads\BookStoreFinal\BookStore.repository\obj\Debug\net6.0\ref\BookStore.repository.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.repository\bin\Debug\net6.0\BookStore.repository.deps.json
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.repository\bin\Debug\net6.0\BookStore.repository.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.repository\bin\Debug\net6.0\BookStore.repository.pdb
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.repository\bin\Debug\net6.0\BookStore.models.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.repository\bin\Debug\net6.0\BookStore.models.pdb
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.repository\obj\Debug\net6.0\BookStore.repository.csproj.AssemblyReference.cache
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.repository\obj\Debug\net6.0\BookStore.repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.repository\obj\Debug\net6.0\BookStore.repository.AssemblyInfoInputs.cache
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.repository\obj\Debug\net6.0\BookStore.repository.AssemblyInfo.cs
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.repository\obj\Debug\net6.0\BookStore.repository.csproj.CoreCompileInputs.cache
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.repository\obj\Debug\net6.0\BookStore.repository.csproj.CopyComplete
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.repository\obj\Debug\net6.0\BookStore.repository.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.repository\obj\Debug\net6.0\refint\BookStore.repository.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.repository\obj\Debug\net6.0\BookStore.repository.pdb
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore.repository\obj\Debug\net6.0\ref\BookStore.repository.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.repository\bin\Debug\net6.0\BookStore.repository.deps.json
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.repository\bin\Debug\net6.0\BookStore.repository.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.repository\bin\Debug\net6.0\BookStore.repository.pdb
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.repository\bin\Debug\net6.0\BookStore.models.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.repository\bin\Debug\net6.0\BookStore.models.pdb
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.repository\obj\Debug\net6.0\BookStore.repository.csproj.AssemblyReference.cache
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.repository\obj\Debug\net6.0\BookStore.repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.repository\obj\Debug\net6.0\BookStore.repository.AssemblyInfoInputs.cache
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.repository\obj\Debug\net6.0\BookStore.repository.AssemblyInfo.cs
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.repository\obj\Debug\net6.0\BookStore.repository.csproj.CoreCompileInputs.cache
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.repository\obj\Debug\net6.0\BookStore.repository.csproj.CopyComplete
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.repository\obj\Debug\net6.0\BookStore.repository.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.repository\obj\Debug\net6.0\refint\BookStore.repository.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.repository\obj\Debug\net6.0\BookStore.repository.pdb
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore.repository\obj\Debug\net6.0\ref\BookStore.repository.dll

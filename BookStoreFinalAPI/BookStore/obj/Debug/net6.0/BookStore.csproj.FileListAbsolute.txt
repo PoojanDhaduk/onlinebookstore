@@ -1,0 +1,155 @@
+F:\tatvasoft\API\CLI\BookStore\BookStore\bin\Debug\net6.0\appsettings.Development.json
+F:\tatvasoft\API\CLI\BookStore\BookStore\bin\Debug\net6.0\appsettings.json
+F:\tatvasoft\API\CLI\BookStore\BookStore\bin\Debug\net6.0\BookStore.exe
+F:\tatvasoft\API\CLI\BookStore\BookStore\bin\Debug\net6.0\BookStore.deps.json
+F:\tatvasoft\API\CLI\BookStore\BookStore\bin\Debug\net6.0\BookStore.runtimeconfig.json
+F:\tatvasoft\API\CLI\BookStore\BookStore\bin\Debug\net6.0\BookStore.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore\bin\Debug\net6.0\BookStore.pdb
+F:\tatvasoft\API\CLI\BookStore\BookStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.AssemblyReference.cache
+F:\tatvasoft\API\CLI\BookStore\BookStore\obj\Debug\net6.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+F:\tatvasoft\API\CLI\BookStore\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfoInputs.cache
+F:\tatvasoft\API\CLI\BookStore\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfo.cs
+F:\tatvasoft\API\CLI\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.CoreCompileInputs.cache
+F:\tatvasoft\API\CLI\BookStore\BookStore\obj\Debug\net6.0\BookStore.MvcApplicationPartsAssemblyInfo.cache
+F:\tatvasoft\API\CLI\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.build.json
+F:\tatvasoft\API\CLI\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.development.json
+F:\tatvasoft\API\CLI\BookStore\BookStore\obj\Debug\net6.0\scopedcss\bundle\BookStore.styles.css
+F:\tatvasoft\API\CLI\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.CopyComplete
+F:\tatvasoft\API\CLI\BookStore\BookStore\obj\Debug\net6.0\BookStore.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore\obj\Debug\net6.0\refint\BookStore.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore\obj\Debug\net6.0\BookStore.pdb
+F:\tatvasoft\API\CLI\BookStore\BookStore\obj\Debug\net6.0\BookStore.genruntimeconfig.cache
+F:\tatvasoft\API\CLI\BookStore\BookStore\obj\Debug\net6.0\ref\BookStore.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore\bin\Debug\net6.0\Npgsql.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore\bin\Debug\net6.0\BookStore.models.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore\bin\Debug\net6.0\BookStore.repository.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore\bin\Debug\net6.0\BookStore.models.pdb
+F:\tatvasoft\API\CLI\BookStore\BookStore\bin\Debug\net6.0\BookStore.repository.pdb
+D:\Downloads\BookStoreFinal\BookStore\obj\Debug\net6.0\BookStore.csproj.AssemblyReference.cache
+D:\Downloads\BookStoreFinal\BookStore\obj\Debug\net6.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\BookStoreFinal\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfoInputs.cache
+D:\Downloads\BookStoreFinal\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfo.cs
+D:\Downloads\BookStoreFinal\BookStore\obj\Debug\net6.0\BookStore.csproj.CoreCompileInputs.cache
+D:\Downloads\BookStoreFinal\BookStore\obj\Debug\net6.0\BookStore.MvcApplicationPartsAssemblyInfo.cs
+D:\Downloads\BookStoreFinal\BookStore\obj\Debug\net6.0\BookStore.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\BookStoreFinal\BookStore\obj\Debug\net6.0\BookStore.dll
+D:\Downloads\BookStoreFinal\BookStore\obj\Debug\net6.0\refint\BookStore.dll
+D:\Downloads\BookStoreFinal\BookStore\obj\Debug\net6.0\BookStore.pdb
+D:\Downloads\BookStoreFinal\BookStore\bin\Debug\net6.0\appsettings.Development.json
+D:\Downloads\BookStoreFinal\BookStore\bin\Debug\net6.0\appsettings.json
+D:\Downloads\BookStoreFinal\BookStore\bin\Debug\net6.0\BookStore.exe
+D:\Downloads\BookStoreFinal\BookStore\bin\Debug\net6.0\BookStore.deps.json
+D:\Downloads\BookStoreFinal\BookStore\bin\Debug\net6.0\BookStore.runtimeconfig.json
+D:\Downloads\BookStoreFinal\BookStore\bin\Debug\net6.0\BookStore.dll
+D:\Downloads\BookStoreFinal\BookStore\bin\Debug\net6.0\BookStore.pdb
+D:\Downloads\BookStoreFinal\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Downloads\BookStoreFinal\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Downloads\BookStoreFinal\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Downloads\BookStoreFinal\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Downloads\BookStoreFinal\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Downloads\BookStoreFinal\BookStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Downloads\BookStoreFinal\BookStore\bin\Debug\net6.0\Npgsql.dll
+D:\Downloads\BookStoreFinal\BookStore\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Downloads\BookStoreFinal\BookStore\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\Downloads\BookStoreFinal\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Downloads\BookStoreFinal\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Downloads\BookStoreFinal\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Downloads\BookStoreFinal\BookStore\bin\Debug\net6.0\BookStore.models.dll
+D:\Downloads\BookStoreFinal\BookStore\bin\Debug\net6.0\BookStore.repository.dll
+D:\Downloads\BookStoreFinal\BookStore\bin\Debug\net6.0\BookStore.models.pdb
+D:\Downloads\BookStoreFinal\BookStore\bin\Debug\net6.0\BookStore.repository.pdb
+D:\Downloads\BookStoreFinal\BookStore\obj\Debug\net6.0\staticwebassets.build.json
+D:\Downloads\BookStoreFinal\BookStore\obj\Debug\net6.0\staticwebassets.development.json
+D:\Downloads\BookStoreFinal\BookStore\obj\Debug\net6.0\scopedcss\bundle\BookStore.styles.css
+D:\Downloads\BookStoreFinal\BookStore\obj\Debug\net6.0\BookStore.csproj.CopyComplete
+D:\Downloads\BookStoreFinal\BookStore\obj\Debug\net6.0\BookStore.genruntimeconfig.cache
+D:\Downloads\BookStoreFinal\BookStore\obj\Debug\net6.0\ref\BookStore.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\bin\Debug\net6.0\appsettings.Development.json
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\bin\Debug\net6.0\appsettings.json
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\bin\Debug\net6.0\BookStore.exe
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\bin\Debug\net6.0\BookStore.deps.json
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\bin\Debug\net6.0\BookStore.runtimeconfig.json
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\bin\Debug\net6.0\BookStore.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\bin\Debug\net6.0\BookStore.pdb
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\bin\Debug\net6.0\Npgsql.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\bin\Debug\net6.0\BookStore.models.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\bin\Debug\net6.0\BookStore.repository.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\bin\Debug\net6.0\BookStore.models.pdb
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\bin\Debug\net6.0\BookStore.repository.pdb
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\obj\Debug\net6.0\BookStore.csproj.AssemblyReference.cache
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\obj\Debug\net6.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfoInputs.cache
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfo.cs
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\obj\Debug\net6.0\BookStore.csproj.CoreCompileInputs.cache
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\obj\Debug\net6.0\BookStore.MvcApplicationPartsAssemblyInfo.cs
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\obj\Debug\net6.0\BookStore.MvcApplicationPartsAssemblyInfo.cache
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\obj\Debug\net6.0\staticwebassets.build.json
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\obj\Debug\net6.0\staticwebassets.development.json
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\obj\Debug\net6.0\scopedcss\bundle\BookStore.styles.css
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\obj\Debug\net6.0\BookStore.csproj.CopyComplete
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\obj\Debug\net6.0\BookStore.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\obj\Debug\net6.0\refint\BookStore.dll
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\obj\Debug\net6.0\BookStore.pdb
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\obj\Debug\net6.0\BookStore.genruntimeconfig.cache
+D:\internship Data\Book project\ready api\BookStoreFinal\BookStore\obj\Debug\net6.0\ref\BookStore.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\bin\Debug\net6.0\appsettings.Development.json
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\bin\Debug\net6.0\appsettings.json
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\bin\Debug\net6.0\BookStore.exe
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\bin\Debug\net6.0\BookStore.deps.json
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\bin\Debug\net6.0\BookStore.runtimeconfig.json
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\bin\Debug\net6.0\BookStore.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\bin\Debug\net6.0\BookStore.pdb
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\bin\Debug\net6.0\Npgsql.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\bin\Debug\net6.0\BookStore.models.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\bin\Debug\net6.0\BookStore.repository.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\bin\Debug\net6.0\BookStore.models.pdb
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\bin\Debug\net6.0\BookStore.repository.pdb
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\obj\Debug\net6.0\BookStore.csproj.AssemblyReference.cache
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\obj\Debug\net6.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfoInputs.cache
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfo.cs
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\obj\Debug\net6.0\BookStore.csproj.CoreCompileInputs.cache
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\obj\Debug\net6.0\BookStore.MvcApplicationPartsAssemblyInfo.cs
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\obj\Debug\net6.0\BookStore.MvcApplicationPartsAssemblyInfo.cache
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\obj\Debug\net6.0\staticwebassets.build.json
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\obj\Debug\net6.0\staticwebassets.development.json
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\obj\Debug\net6.0\scopedcss\bundle\BookStore.styles.css
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\obj\Debug\net6.0\BookStore.csproj.CopyComplete
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\obj\Debug\net6.0\BookStore.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\obj\Debug\net6.0\refint\BookStore.dll
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\obj\Debug\net6.0\BookStore.pdb
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\obj\Debug\net6.0\BookStore.genruntimeconfig.cache
+D:\internship Data\Book project\BookStoreFinalAPI\BookStore\obj\Debug\net6.0\ref\BookStore.dll
